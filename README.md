@@ -1,7 +1,7 @@
 # Estimation de la Consommation Logique d’un CPU 16 bits en ASIC (TinyTapeout)
 
 ## Introduction
-Ce projet vise à estimer le nombre de cellules logiques utilisées par un processeur 16 bits avant la phase d’implantation physique en ASIC. Le processeur est développé avec la plateforme [TinyTapeout](https://github.com/TinyTapeout/tinytapeout).
+Ce projet vise à estimer le nombre de cellules logiques utilisées par un processeur 16 bits avant la phase d’implantation physique en ASIC. Le processeur est développé avec la plateforme [TinyTapeout](https://github.com/TinyTapeout/tt10-verilog-template).
 
 ## Objectif
 - Concevoir un CPU 16 bits fonctionnel avec RAM intégrée
