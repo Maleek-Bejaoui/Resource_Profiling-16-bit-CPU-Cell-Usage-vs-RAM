@@ -46,4 +46,4 @@ Ce modèle permet de prédire rapidement la consommation logique d’un CPU 16 b
 
 ---
 
-> Projet réalisé avec TinyTapeout - MPW Shuttle OpenLane
+> Ce projet a été réalisé par Cossec Célian et moi-même, sous la supervision de M. Mathieu Escouteloup.
