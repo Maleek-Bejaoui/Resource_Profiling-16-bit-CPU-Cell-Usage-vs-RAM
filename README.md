@@ -1,3 +1,6 @@
+> 🔗 Ce dépôt contient le projet **CPU 16 bits en Verilog**, implémenté avec le template **TinyTapeout**.  
+> 📂 Retrouvez tout le code source ici : [Voir le dépôt GitHub](https://github.com/Maleek-Bejaoui/CPU_vF)
+
 # Estimation de la Consommation Logique d’un CPU 16 bits en ASIC (TinyTapeout)
 
 ## Introduction
